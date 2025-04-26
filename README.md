@@ -1,6 +1,6 @@
 # Hello, I'm Ansh Shahu
 
-I'm a developer-in-progress with a growing interest in building things that work - cleanly and efficiently. While i'm still exploring, I love breaking down concepts and understanding what's really happening under the hood.
+I'm a developer-in-progress with a growing interest in building things that work - cleanly and efficiently. While I'm still exploring, I love breaking down concepts and understanding what's really happening under the hood.
 
 Whether it's writing C code that runs tight, JavaScript that runs fast, or just a script that saves me 10 clicks.
 
@@ -26,7 +26,7 @@ Whether it's writing C code that runs tight, JavaScript that runs fast, or just 
   - Python
   - Java
  
-- **Scripting & Tools**
+- **Scripting & Tools**:
   - Bash
   - Linux
   - Git
@@ -36,7 +36,7 @@ Whether it's writing C code that runs tight, JavaScript that runs fast, or just 
 
 ### Favorite Topics to Learn
 
-- Writing Clean, modular, and maintainable code
+- Writing clean, modular, and maintainable code
 - DOM behavior and interactivity in JavaScript
 - Git workflows and efficient version control
 - How programming languages handle logic under the hood
@@ -46,7 +46,7 @@ Whether it's writing C code that runs tight, JavaScript that runs fast, or just 
 
 -----------
 
-### Currently Working on
+### Currently Working On
 
 - Revisiting **C** and exploring its deeper concepts
 - Learning how to write more maintainable code with **JavaScript**
@@ -70,7 +70,7 @@ Got a cool project, idea, or just learning something exciting?
 Let’s connect and exchange ideas — I’m always up for a good tech talk.
 
 - [anshshahu1@gmail.com](mailto:anshshahu1@gmail.com)
-- [Github Profile](https://github.com/Ansh-Shahu)
+- [GitHub Profile](https://github.com/Ansh-Shahu)
 - [LinkedIn](https://www.linkedin.com/in/ansh-shahu-rooted221b/)
 - [Stack Overflow](https://stackoverflow.com/users/22251013/ansh-shahu)
 - Always open to collaborations or conversations!
